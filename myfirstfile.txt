@@ -1,12 +1,2 @@
 whatever
-<<<<<<< HEAD
-<<<<<<< HEAD
-this is gonna go wrong 2....
-=======
-changes made online
->>>>>>> aa6f6bd408956ebf20247a7ed574eccd7b22cf30
-this is gonna go wrong...
-this is gonna go wrong...
-=======
-this is gonna go wrong....
->>>>>>> 43ea500bdfae6288e0af15a651dad633dd5333d1
+this is NOT gonna go wrong
